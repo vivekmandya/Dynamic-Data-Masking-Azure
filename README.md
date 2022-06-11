@@ -17,9 +17,6 @@ You can mask SQL users as well AAD identities. Users with administrator privileg
     * SSMS or Azure data studio
     * Admin access (dbmanager access is sufficient) on sql pool
 
-## inspect
-    <img src="image/sqlpool-ddm-image.PNG" alt="Alt text" title="DDM">
-
 ## Steps
     1. Connect to DB using SSMS.
     2. Identify the columns in the table you want to mask.
