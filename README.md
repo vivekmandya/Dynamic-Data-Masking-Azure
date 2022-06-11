@@ -16,6 +16,9 @@ You can mask SQL users as well AAD identities. Users with administrator privileg
     * Azure dedicated SQL pool
     * SSMS or Azure data studio
     * Admin access (dbmanager access is sufficient) on sql pool
+    
+## inspect
+   01-sqlpool-ddm-image-before-masking.PNG
 
 ## Steps
     1. Connect to DB using SSMS.
