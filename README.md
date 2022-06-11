@@ -18,7 +18,7 @@ You can mask SQL users as well AAD identities. Users with administrator privileg
     * Admin access (dbmanager access is sufficient) on sql pool
 
 ## inspect
-    <img src="https://github.com/vivekmandya/Dynamic-Data-Masking-Azure/blob/feature/doc/image/sqlpool-ddm-image.PNG" alt="Alt text" title="DDM">
+    <img src="image/sqlpool-ddm-image.PNG" alt="Alt text" title="DDM">
 
 ## Steps
     1. Connect to DB using SSMS.
