@@ -18,7 +18,8 @@ You can mask SQL users as well AAD identities. Users with administrator privileg
     * Admin access (dbmanager access is sufficient) on sql pool
     
 ## inspect
-   01-sqlpool-ddm-image-before-masking.PNG
+   ![01-sqlpool-ddm-image-before-masking](https://user-images.githubusercontent.com/60417647/173173488-5891c739-472c-4c5f-b421-e17c8944a734.PNG)
+
 
 ## Steps
     1. Connect to DB using SSMS.
